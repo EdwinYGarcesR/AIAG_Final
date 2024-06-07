@@ -98,5 +98,5 @@ Evaluación de resultados
 - Completitud, correctitud y velocidad de la respuesta
   Durante el proceso tuvimos algunos problemas en la construcción de la consulta.
   Por la construcción de la aplicación, tiene un tiempo límite de ejecución para lanzar el error en caso de falla.
-  El chat cumple con la completitud y correctitud de las respuestas relacionadas a las preguntas comunes y a información básica de los cursos, pero presenta problemas para las búsquedas más complejas, como evaluación de rankings y review de cada curso. En promedio, 3 de cada 4 consultas funcionan perfectamente.
+  El chat cumple con la completitud y correctitud de las respuestas relacionadas a las preguntas comunes y a información básica de los cursos, pero presenta problemas para las búsquedas más complejas, como evaluación de rankings y review de cada curso. En promedio, 2 de cada 4 consultas funcionan perfectamente.
 - Por inconvenientes con los datasets en las últimas semanas del desarrollo, no concretamos una evaluación mediante .evals o otras herramientas para evaluación de llm 
