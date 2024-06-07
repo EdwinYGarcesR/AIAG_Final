@@ -1,6 +1,11 @@
 # Chatbot de revisión de cursos en línea
 
 Este repositorio contiene un chatbot RAG (generación aumentada de recuperación) creado con LangChain y Neo4j para responder preguntas sobre cursos en línea, y temas relacionados con el funcionamiento de la plataforma.
+Trabajo realizado por:
+ - Edwin Yahir Garcés Romero
+ - Edwin Espinoza Jiménez
+
+Universidad del Cauca - Electiva: Aplicación de Inteligencia Artificial Generativa
 
 ## Tabla de contenido
 - [Instalación](#instalación)
