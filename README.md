@@ -70,7 +70,7 @@ Problema: La accesibilidad de los cursos es poco intuitiva y la tasa de finaliza
 Impacto: Los usuarios no completan los cursos, lo que afecta la satisfacción del cliente y las renovaciones de suscripción.
 
 3. **Objetivo General del desarrollo**
-Mejorar la personalización de recomendaciones de cursos, y faciliatr el acceso de los usuarios a toda la información necesaria para cursar
+Mejorar la personalización de recomendaciones de cursos, y facilitar el acceso de los usuarios a toda la información necesaria para cursar
 
 4. **Planificación**
 - Tareas: Recolección de datos, análisis exploratorio, limpieza y preparación de datos, modelado, evaluación, despliegue, monitoreo.
