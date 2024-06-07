@@ -1,0 +1,46 @@
+[
+    {
+        "input":"Cuales son los horarios de operacion de la plataforma?",
+        "ideal": " La plataforma esta disponible las 24 horas del dia los 7 dias de la semana para que los estudiantes puedan acceder a los cursos en cualquier momento."
+    },
+    {
+        "input":"Donde puedo acceder a la plataforma de cursos?",
+        "ideal": "Puedes acceder a la plataforma de cursos en linea a traves de nuestro sitio web en www.cursosonline.com. Solo necesitas una conexion a internet y un dispositivo compatible para ingresar."
+    },
+    {
+        "input":"Necesito algun software especial para acceder a los cursos?",
+        "ideal": "No. Solo necesitas un navegador web actualizado. Todos los cursos estan disennados para ser accesibles directamente desde tu navegador."
+    },
+    {
+        "input":"Cuales son los requisitos tecnicos para usar la plataforma?",
+        "ideal": "Recomendamos utilizar un navegador actualizado como Chrome Firefox o Safari. Tambien necesitaras una conexion a internet estable y un dispositivo compatible (PC tablet o smartphone)."
+    },
+    {
+        "input":"Cuales son las formas de pago aceptadas para inscribirse en un curso?",
+        "ideal": "Aceptamos varias formas de pago incluyendo tarjetas de credito y debito (Visa MasterCard American Express) PayPal y transferencias bancarias."
+    },
+    {
+        "input":"Puedo cancelar mi inscripcion y obtener un reembolso?",
+        "ideal": " Si. Ofrecemos descuentos especiales para estudiantes grupos y organizaciones. Para mas informacion sobre los descuentos disponibles. Por favor contacta a nuestro equipo de ventas en ventas@cursosonline.com."
+    },
+    {
+        "input":"Puedo ver una vista previa de los cursos antes de inscribirme?",
+        "ideal": " Si. Ofrecemos una politica de reembolso dentro de los primeros 14 dias despues de la inscripcion siempre y cuando no hayas completado mas del 10% del curso. Para solicitar un reembolso contacta a nuestro equipo de soporte en soporte@cursosonline.com."
+    },
+    {
+        "input":"Como me inscribo en un curso?",
+        "ideal": "Para inscribirte en un curso simplemente haz clic en el boton 'Inscribirse' en la pagina del curso. Luego sigue las instrucciones para crear una cuenta o iniciar sesion y completa el proceso de inscripcion."
+    },
+    {
+        "input":"Como se estructuran los cursos?",
+        "ideal": "Los cursos estan estructurados en modulos o unidades donde cada uno cubre un tema especifico. Al final de cada modulo generalmente hay una evaluacion para medir tu comprension del material."
+    },
+    {
+        "input":"Como se evalua mi progreso en el curso?",
+        "ideal": "Tu progreso se evalua a traves de cuestionarios tareas y examenes. Algunos cursos tambien incluyen proyectos practicos y presentaciones."
+    },
+    {
+        "input":"Que sucede si no paso una evaluacion?",
+        "ideal": "Si no pasas una evaluacion generalmente tienes la oportunidad de volver a intentarla. Consulta las politicas especeficas de cada curso para mas detalles."
+    }
+]
