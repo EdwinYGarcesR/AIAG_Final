@@ -69,7 +69,7 @@ Básicamente, hay que vender cursos para que la plataforma siga en pie
 Problema: La accesibilidad de los cursos es poco intuitiva y la tasa de finalización de los cursos es baja
 Impacto: Los usuarios no completan los cursos, lo que afecta la satisfacción del cliente y las renovaciones de suscripción.
 
-3. **Objetivo General ddel desarrollo**
+3. **Objetivo General del desarrollo**
 Mejorar la personalización de recomendaciones de cursos, y faciliatr el acceso de los usuarios a toda la información necesaria para cursar
 
 4. **Planificación**
