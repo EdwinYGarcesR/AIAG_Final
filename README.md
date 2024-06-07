@@ -89,7 +89,7 @@ Los dos datasets se acomodaron para acoplarse a una base de datos en grafos comp
 
 ### Modelado
 - Construcción: LLM RAG CHATBOT With LangChain and Neo4j
-La construcción y distribución general del proyecto se realizó siguiento la estrucutura dispuesta en el tutorial del título
+La construcción y distribución general del proyecto se realizó siguiendo la estructura dispuesta en el tutorial del título
 
 - Modelos utilizados: 2 tipos de consultas LangChain (Consulta de Grafo del dataset, Consulta de experiencia de la aplicación)
 
