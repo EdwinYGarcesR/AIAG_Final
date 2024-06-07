@@ -62,14 +62,14 @@ Construcción mediante 3 módulos:
 
 Métodología CRISP-DM
 ### Entendimiento del negocio
-1. **Objetivo:**
+1. **Objetivo del negocio:**
 Entender los objetivos y requerimientos del negocio para diseñar un proyecto de análisis de datos que los satisfaga.
 
 2. **Planteamiento del Problema:**
 Problema: La accesibilidad de los cursos es poco intuitiva y la tasa de finalización de los cursos es baja
 Impacto: Los usuarios no completan los cursos, lo que afecta la satisfacción del cliente y las renovaciones de suscripción.
 
-3. **Objetivo**
+3. **Objetivo General ddel desarrollo**
 Mejorar la personalización de recomendaciones de cursos, y faciliatr el acceso de los usuarios a toda la información necesaria para cursar
 
 4. **Planificación**
